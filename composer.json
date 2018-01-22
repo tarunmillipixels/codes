@@ -1,0 +1,8 @@
+{
+    "repositories": {
+        "magento": {
+            "type": "composer",
+            "url": "http://packages.magento.com"
+        }
+    }
+}
